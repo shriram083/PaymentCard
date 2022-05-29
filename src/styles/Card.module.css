@@ -1,0 +1,36 @@
+.container {
+    width: 100%;
+    max-width: 650px;
+    margin: auto;
+    padding: 20px 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.header img{
+    height: 50px;
+    width: 70px;
+}
+.caseStudy {
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    width: 140px;
+    padding: 10px;
+    margin: 10px 0px;
+}
+.title {
+    width: 300px;
+    font-size: 25px;
+    text-align: left;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
